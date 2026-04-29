@@ -67,7 +67,7 @@ The goal was to transform raw data into meaningful insights using SQL and Excel.
 
 ## 📸 Dashboard Preview
 
-<img width="955" height="470" alt="dataset" src="https://github.com/user-attachments/assets/5ad2be70-c877-4777-a6e1-44aaf74023e5" />
+<img width="861" height="186" alt="dasboard" src="https://github.com/user-attachments/assets/9b0bb48a-db18-4a98-9015-98242a5dfe3f" />
 
 ---
 
